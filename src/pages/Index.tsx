@@ -114,11 +114,11 @@ const Index = () => {
         <div className="mb-8 p-6 bg-gray-50 rounded-2xl">
           <div className="flex items-center justify-between mb-4">
             <span className="text-gray-600">К оплате:</span>
-            <span className="text-2xl font-bold text-gray-900">1 000 ₽</span>
+            <span className="text-2xl font-bold text-gray-900">100 ￥</span>
           </div>
           <div className="flex items-center justify-between text-sm text-gray-500">
             <span>Комиссия:</span>
-            <span>0 ₽</span>
+            <span>0 ￥</span>
           </div>
         </div>
 
