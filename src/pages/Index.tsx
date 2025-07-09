@@ -33,9 +33,10 @@ const Index = () => {
 
           <div className="mb-8 p-6 bg-white rounded-2xl border-2 border-gray-100">
             <img
-              src="/img/756e5ef1-cdc5-4cee-8c54-908a3c7b49ab.jpg"
+              src="/img/718d77d5-4369-410f-919d-55935e21e510.jpg"
               alt="QR Code"
-              className="w-48 h-48 mx-auto rounded-lg"
+              className="w-48 h-48 mx-auto"
+              style={{ imageRendering: "pixelated" }}
             />
           </div>
 
